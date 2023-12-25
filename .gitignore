@@ -1,5 +1,9 @@
 # history
 .history
 
-# dependency
+
+# environment
+.next
 node_modules
+.env
+
